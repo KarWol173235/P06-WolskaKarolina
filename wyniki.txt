@@ -1,0 +1,2 @@
+ilosc plusow to 0 
+ czas wykonania algorytmu to 0.000  
